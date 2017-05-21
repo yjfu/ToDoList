@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/CreatorModule/Creator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/CreatorModule/CreatorHelper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/CreatorModule/CreatorHolder.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/CreatorModule/CreatorOperations.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/CreatorModule/CreatorPOA.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/CreatorModule/_CreatorStub.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Server.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/UserModule/User.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/UserModule/UserHelper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/UserModule/UserHolder.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/UserModule/UserOperations.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/UserModule/UserPOA.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/UserModule/_UserStub.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
